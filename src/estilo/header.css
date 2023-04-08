@@ -1,0 +1,56 @@
+.header{
+background-color: #dd9fa2;
+   height: auto;
+   width: 125ch;
+   text-align:center;
+   justify-content: center;
+   margin: 5px;
+   padding: 0px ;
+   
+   
+  
+
+}
+.text{
+    text-align: center;
+    font-size: 3.1rem;  
+    color: rgb(75, 72, 72);
+    border-radius: 70px;
+    border-width: 10px;
+    border-right: 70px;
+    background-color: #FAF9FB;
+    border: solid;
+    font-family: 'Berkshire Swash', cursive;
+    text-shadow: 1px 1px 0 rgb(150, 150, 150),
+                 1px 2px 0 rgb(150, 150, 150),
+                 1px 3px 0 rgb(150, 150, 150),
+                 1px 4px 0 rgb(150, 150, 150),
+                 1px 5px 0 rgb(150, 150, 150),
+                 1px 6px 0 rgb(150, 150, 150),
+                 1px 7px 0 rgb(150, 150, 150),
+                 1px 8px 0 rgb(150, 150, 150),
+                 1px 9px 0 rgb(150, 150, 150),
+                 1px 10px 0 rgb(150, 150, 150),
+                 1px 11px 0 rgb(150, 150, 150),
+                 1px 12px 0 rgb(150, 150, 150),
+                 1px 13px 0 rgb(150, 150, 150),
+                 1px 14px 0 rgb(150, 150, 150),
+                 1px 15px 0 rgb(150, 150, 150),
+                 1px 15px 30px rgb(57 56 56);
+    
+}
+.vamos{
+    border: solid;
+    height: 100;
+    width: 90;
+    margin: 0 auto;
+    border-radius: 50px;
+    background-color: #FAF9FB;
+}
+.motiva{
+    color: rgb(0, 0, 0);
+    font-size: 13px;
+    padding-top: 10px;
+    font-weight: 700;
+    
+}

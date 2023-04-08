@@ -1,0 +1,84 @@
+.menu{
+font: 1em sans-serif;
+background-color: #efc050;
+height: 1.3cm;
+margin: 5px;
+width: 142ch;
+display: flex;
+justify-content: space-between;  
+
+}
+
+.nav{  
+display: flex;
+width: 10cm;
+font-size: 1.5rem;
+height: 0.8cm;
+padding-top: 12px;
+
+}
+nav li{
+    display: inline-flex;
+    padding: 0px 15px;
+    color: rgb(255, 255, 255);
+}
+a:hover{
+color:black;
+}
+
+
+.btn{
+    border-radius: 15px;
+    position: relative;
+    left: -294px;
+}
+
+.TodoSearch{
+
+   margin: 3px;
+   width: 6cm;
+   border-radius: 5px;
+   border-color: black;
+   text-align: center;
+}
+.mundo{
+    background-color: aquamarine;
+    width: 341px;
+    padding: 3px;
+    float: right;
+    height: 32cm;
+    padding: 3px;
+    
+}
+.contenido{
+    width: 900px;
+    height: 32cm;
+    background-color: #ff9b9c;
+    margin: 5px;
+    padding: 3px;
+    display: flex;
+}
+.junior{
+    height: 300px;
+    width: 312px;
+    display: flex;
+    padding: 40px;
+}
+.imgTx{
+height: auto;
+width: 14cm;
+}
+.lorem{
+   color: white;
+   font-size: 25px;
+   justify-content: center;
+  margin: 70px;
+  width: 20cm;
+  
+ 
+}
+.Text2{
+   justify-content: center;
+   width: -90px;
+   display: contents
+}
